@@ -15,6 +15,6 @@ class School
   
   def add_student(name)
     @add_student = add_student
-    @add_student = []
+    @add_student = {}
   end
 end
