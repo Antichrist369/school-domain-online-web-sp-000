@@ -17,4 +17,8 @@ class School
     @add_student = add_student
     @add_student = {}
   end
+  
+  def grade 
+    @grade = {}
+  end 
 end
