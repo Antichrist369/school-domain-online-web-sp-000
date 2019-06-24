@@ -13,6 +13,6 @@ class School
     @roster
   end
   
-  def add_studnt(name)
+  def add_student(name)
   end
 end
